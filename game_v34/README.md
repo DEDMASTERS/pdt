@@ -1,18 +1,18 @@
 # Проект 1. Угадай число за менее чем 20 попыток
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Описание-проекта) 
-* [2. Какой кейс решаем?](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Какой-кейс-решаем)
-* [3. Краткая информация о данных](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Результат)
-* [6. Выводы](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Выводы)
+* [1. Описание проекта](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Описание-проекта) 
+* [2. Какой кейс решаем?](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Результат)
+* [6. Выводы](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Выводы)
 
 ### Описание проекта
 * Компьютер загадывает целое число от 1 до 100, и нам его нужно угадать. Под «угадать» подразумевается «написать программу, которая угадывает число».
 * Алгоритм учитывает информацию о том, больше ли или меньше случайное число нужного нам числа.
 
-:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -32,19 +32,19 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Оглавление)
 
 
 ### Результаты:
 ....
 - алгоритм способный находить загаданное число при помощи бинарного поиска. В диапазоне от 1 до 100 в среднем за 5 попыток.
-:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DEDMASTERS/pdt/blob/main/game_v34/README.md#Оглавление)
 
 
 ### Выводы:
